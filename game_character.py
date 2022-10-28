@@ -1,5 +1,4 @@
 import pygame
-import time
 from settings import Settings
 
 pygame.init()
